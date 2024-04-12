@@ -1,0 +1,102 @@
+Profesor Buzea Olivia
+Filosofie
+Elena Radu: 9 9 
+Ion Dumitrescu: 8 8 
+Larisa Munteanu: 8 8 
+Victor Marin: 10 9 
+
+Economie
+Elena Radu: 
+Ion Dumitrescu: 9 8 8 
+Larisa Munteanu: 10 9 8 
+Victor Marin: 
+
+Profesor Telean Miruna
+Stintele ale naturii
+Radu Popa: 8 10 
+Andrei Ionescu: 8 9 7 
+Maria Stoica: 7 9 8 
+Ioana Vasile: 8 9 7 
+
+Profesor Bularca Delia
+Franceza
+Elena Radu: 7 8 10 
+Alexandru Gheorghescu: 8 9 7 7 8 
+Victor Marin: 7 8 10 
+
+Informatica
+Elena Radu: 9 9 
+Alexandru Gheorghescu: 8 9 
+Victor Marin: 9 8 
+
+Profesor Barbu Ana-Maria
+Matematica
+Maria Stoica: 3 5 
+Ana Popescu: 5 8 
+Ioana Vasile: 10 9 
+
+Istorie
+Maria Stoica: 9 7 
+Ana Popescu: 5 9 
+Ioana Vasile: 6 10 
+
+Sport
+Maria Stoica: 
+Ana Popescu: 10 8 
+Ioana Vasile: 
+
+Profesor Iancu Marius
+Desen
+Radu Popa: 8 7 
+Andrei Ionescu: 8 7 
+Maria Stoica: 8 8 8 
+Ioana Vasile: 7 8 8 
+
+Psihologie
+Radu Popa: 7 7 
+Andrei Ionescu: 7 6 
+Maria Stoica: 8 7 9 
+Ioana Vasile: 7 10 8 
+
+Profesor Banita Marinela
+Fizica
+Radu Popa: 5 7 
+Andrei Ionescu: 7 6 
+
+Muzica
+Radu Popa: 9 8 
+Andrei Ionescu: 8 9 
+
+Profesor Bucur Anastasia
+Marketing
+Elena Radu: 9 9 
+Ion Dumitrescu: 8 8 
+Larisa Munteanu: 9 8 
+Victor Marin: 9 10 
+
+Management
+Elena Radu: 8 7 10 
+Ion Dumitrescu: 9 8 
+Larisa Munteanu: 9 8 
+Victor Marin: 8 8 10 
+
+Profesor Bobes Maria
+Engleza
+Alexandru Gheorghescu: 9 8 7 
+
+Limba si literatura romana
+Alexandru Gheorghescu: 9 9 8 
+
+Profesor Mihnea Mihai
+Franceza
+Ana Popescu: 9 7 8 
+Alexandru Gheorghescu: 8 9 7 7 8 
+Ion Dumitrescu: 8 8 9 
+Larisa Munteanu: 9 8 7 
+
+Chimie
+Ana Popescu: 7 8 
+Alexandru Gheorghescu: 8 9 
+Ion Dumitrescu: 8 8 8 
+Larisa Munteanu: 8 8 7 
+
